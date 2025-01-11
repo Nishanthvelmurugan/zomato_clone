@@ -1,0 +1,7 @@
+# Ignore parcel-cache
+.parcel-cache/
+
+# Other ignored files/directories
+node_modules/
+dist/
+.env

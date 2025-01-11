@@ -1,0 +1,35 @@
+{
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1"
+  },
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishanthvelmurugan/swiggy-clone.git"
+  },
+  "keywords": [
+    "projects",
+    "react"
+  ],
+  "author": "Nish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishanthvelmurugan/swiggy-clone/issues"
+  },
+  "homepage": "https://github.com/Nishanthvelmurugan/swiggy-clone#readme",
+  "main": "App.js"
+}
