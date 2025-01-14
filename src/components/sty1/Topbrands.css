@@ -1,0 +1,36 @@
+.collection-title{
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+
+.top-brand-cover{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    background: linear-gradient(to right, rgb(248, 248, 248) 0%, rgb(255, 255, 255) 10%, rgb(248, 248, 248) 40%, rgb(248, 248, 248) 100%) no-repeat rgb(248, 248, 248);
+
+}
+
+.top-brand-img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 80px;
+}
+
+.top-brand-name{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 6px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.time{
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 6px;
+    text-align: left;
+    margin-left: 40px;
+}

@@ -3,6 +3,7 @@ import Nextarrow from '../slick/Nextarrow'
 import Previarrow from '../slick/Previarrow';
 import Slider from 'react-slick';
 import Itemslide from './Itemslide';
+import "../sty1/deliverycollection.css"
 
 const deliveryItems = [
   {
